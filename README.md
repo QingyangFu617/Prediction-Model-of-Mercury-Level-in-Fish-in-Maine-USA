@@ -1,4 +1,5 @@
 # Prediction Model of Mercury Level in Fish in Maine USA
+![image](https://user-images.githubusercontent.com/100692852/226152707-5cef2643-de1d-478f-9ace-71f73804c928.png)
 
 ## Executive Summary
 
